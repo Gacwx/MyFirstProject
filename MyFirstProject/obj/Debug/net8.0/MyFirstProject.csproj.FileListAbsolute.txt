@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\MyFirstProject\MyFirstProject\bin\Debug\net8.0\MyFirstProject.exe
+C:\Users\Acer\source\repos\MyFirstProject\MyFirstProject\bin\Debug\net8.0\MyFirstProject.deps.json
+C:\Users\Acer\source\repos\MyFirstProject\MyFirstProject\bin\Debug\net8.0\MyFirstProject.runtimeconfig.json
+C:\Users\Acer\source\repos\MyFirstProject\MyFirstProject\bin\Debug\net8.0\MyFirstProject.dll
+C:\Users\Acer\source\repos\MyFirstProject\MyFirstProject\bin\Debug\net8.0\MyFirstProject.pdb
+C:\Users\Acer\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net8.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net8.0\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net8.0\MyFirstProject.AssemblyInfo.cs
+C:\Users\Acer\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net8.0\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net8.0\MyFirstProject.dll
+C:\Users\Acer\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net8.0\refint\MyFirstProject.dll
+C:\Users\Acer\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net8.0\MyFirstProject.pdb
+C:\Users\Acer\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net8.0\MyFirstProject.genruntimeconfig.cache
+C:\Users\Acer\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net8.0\ref\MyFirstProject.dll
